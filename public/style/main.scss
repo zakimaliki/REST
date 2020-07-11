@@ -1,0 +1,11 @@
+// Import Bootstrap 4 Library
+@import "../vendor/bootstrap/scss/bootstrap.scss";
+
+@import "global";
+@import "fonts";
+@import "navbar";
+@import "footer";
+@import "pages/home";
+@import "components/card";
+@import "components/card_list";
+@import "transitions/slide-fade";
